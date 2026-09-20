@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+
+dataset/fer2013.csv
+images/*.npy
+
+.vscode/
